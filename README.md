@@ -1,6 +1,6 @@
 # GHop
 
-A mod that lets you use the physics of the source engine, letting you bunny hop, fly and more.
+A mod that lets you use the mimicked physics of the source engine, letting you bunny hop, fly and more.
 
 _If you have any questions, or you found and issue with the mod, or you wanna help me out, feel free to contact me._
 
