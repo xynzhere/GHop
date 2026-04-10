@@ -2,7 +2,7 @@
 
 A mod that lets you use the physics of the source engine, letting you bunny hop, fly and more.
 
-_If you have any questions, or you found and issue with the mod, or you wanna help me out, feel free to contact me on discord._
+_If you have any questions, or you found and issue with the mod, or you wanna help me out, feel free to contact me._
 
 <img width="40" height="40" alt="ico" src="https://github.com/user-attachments/assets/2bc010b0-e1f6-40ee-8655-8b696402bcea" /> /‎ ‎‎ ‎ **xynz_**
 
