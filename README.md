@@ -2,7 +2,7 @@
 
 A mod that lets you use the mimicked physics of the source engine, letting you bunny hop, fly and more.
 
-_If you have any questions, you found an issue with the mod, or you wanna help me out, feel free to contact me._
+_If you have any questions, you found an issue related the mod, or you wanna help me out in general, feel free to contact me._
 
 _W A S D_ / _SHIFT_ / _CTRL_ / _SPACE_ / _Main Movement._<br>
 
