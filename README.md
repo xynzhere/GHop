@@ -6,9 +6,9 @@ _If you have any questions, you found an issue related the mod, or you wanna hel
 
 _W A S D_ / _SHIFT_ / _CTRL_ / _SPACE_ / _Main Movement._<br>
 
-_B **|** Toggle the mod._<br>
-_C **|** Unlock Mouse._<br>
-_V **|** Change POV._<br>
+_B **|** Toggle movement._<br>
+_V **|** Unlock Mouse._<br>
+_C **|** Change POV._<br>
 _N **|** Fly._<br>
 
 <img width="40" height="40" alt="ico" src="https://github.com/user-attachments/assets/2bc010b0-e1f6-40ee-8655-8b696402bcea" /> /‎ ‎‎ ‎ **xynz_**
