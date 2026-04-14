@@ -9,7 +9,8 @@ _W A S D_ / _SHIFT_ / _CTRL_ / _SPACE_ / _Main Movement._<br>
 _B **|** Toggle movement._<br>
 _V **|** Unlock Mouse._<br>
 _C **|** Change POV._<br>
-_N **|** Fly._<br>
+_N **|** Toggle Freecam._<br>
+_M **|** Toggle Indicator._<br>
 
 <img width="40" height="40" alt="ico" src="https://github.com/user-attachments/assets/2bc010b0-e1f6-40ee-8655-8b696402bcea" /> /‎ ‎‎ ‎ **xynz_**
 
