@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\font.otf" />
     <None Remove="Resources\logo.png" />
     <None Remove="Sounds\fall1.wav" />
     <None Remove="Sounds\fall2.wav" />
@@ -26,6 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\font.otf" />
     <EmbeddedResource Include="Resources\logo.png" />
     <EmbeddedResource Include="Sounds\fall1.wav" />
     <EmbeddedResource Include="Sounds\fall2.wav" />

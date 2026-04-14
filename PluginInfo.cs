@@ -4,6 +4,6 @@
     {
         internal const string GUID = "com.xynz.ghop";
         internal const string Name = "GHop";
-        internal const string Version = "1.0";
+        internal const string Version = "1.2";
     }
 }
